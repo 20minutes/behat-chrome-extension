@@ -1,6 +1,6 @@
 {
-    "name": "dmore/behat-chrome-extension",
-    "description": "Behat extension for controlling chrome without selenium",
+    "name": "20minutes/behat-chrome-extension",
+    "description": "FORK: (dmore/behat-chrome-extension) Behat extension for controlling chrome without selenium",
     "keywords": [
         "chrome",
         "behat",
@@ -22,7 +22,7 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.6",
+        "php": ">=5.5",
         "dmore/chrome-mink-driver": "^2.4.1",
         "behat/behat": "^3.0.4",
         "behat/mink-extension": "^2.0"
